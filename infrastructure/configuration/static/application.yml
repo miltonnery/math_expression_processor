@@ -1,0 +1,17 @@
+profiles:
+  active: local
+
+properties:
+  sub: sub
+  tid: tid
+
+log:
+  startup-phrase:
+    title:
+      value: GO COMPUTE
+      font: isometric1
+    message:
+      value: == Expression computer service ==
+      font: digital
+
+
